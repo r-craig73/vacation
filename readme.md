@@ -1,32 +1,29 @@
-# Vacation site
+# vacation
+
+## GitHub repository: https://github.com/r-craig73/vacation
 
 #### Vacation website with bootstrap features, V1.01 01/04/2018
 
-#### By Ron Craig & Joel Adams
+#### By Ron Craig (ron.craig@comcast.net) & Joel Adams (joeladamsdesign@gmail.com)
 
-## Vacation site with the following bootstrap features
-### list of islands
-### about section
-### vacation packages
-### reviews
+## Description
+#### An Epicodus Intro to Programming lesson.
+#### A vacation site with the following bootstrap styling/features...
+1. list of islands
+2. about section
+3. vacation packages
+4. reviews
 
-## Setup/Installation Requirements
-### bootstrap.css file
+## Setup
+* Clone the repository
+* Open `index.html` in any web browser.
 
 ## Known Bugs
-
 ### none at the moment
 
-## Support and contact details
-
-#### contact ron.craig@comcast.net & joeladamsdesign@gmail.com
-
 ## Technologies Used
+* HTML, boostrap, CSS and Github.
 
-### HTML, CSS & bootstrap
+### MIT License
 
-### License
-
-#### GNP
-
-Copyright (c) 2018 **Ron & Joel**
+Copyright (c) 2018 _Ron & Joel_
